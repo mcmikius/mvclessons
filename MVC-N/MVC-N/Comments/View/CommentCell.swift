@@ -10,7 +10,6 @@ import UIKit
 
 class CommentCell: UITableViewCell {
     
-    
     @IBOutlet weak var label: UILabel!
     @IBOutlet weak var textView: UITextView!
     
