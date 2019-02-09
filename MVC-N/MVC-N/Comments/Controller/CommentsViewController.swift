@@ -9,6 +9,14 @@ import UIKit
 class CommentsViewController: UIViewController {
 
     @IBOutlet weak var tableView: UITableView!
+    
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        
+        NetworkService.shared.getData { (json) in
+            
+        }
+    }
 }
 
 extension CommentsViewController: UITableViewDelegate {}
