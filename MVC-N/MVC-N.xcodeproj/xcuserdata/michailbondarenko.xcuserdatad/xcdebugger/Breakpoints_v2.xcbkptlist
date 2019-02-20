@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVC-N/Comments/CommentNetworkService/CommentNetworkService.swift"
+            timestampString = "571435730.0576299"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVC-N/Comments/CommentNetworkService/CommentNetworkService.swift"
+            timestampString = "571435730.058072"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "getComments(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static MVC_N.CommentNetworkService.getComments(completion: (MVC_N.GetCommentResponse) -&gt; ()) -&gt; ()"
+                  moduleName = "MVC-N"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michailbondarenko/Documents/mvclessons/MVC-N/MVC-N/Comments/CommentNetworkService/CommentNetworkService.swift"
+                  timestampString = "571435626.982325"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Any) -&gt; () in static MVC_N.CommentNetworkService.getComments(completion: (MVC_N.GetCommentResponse) -&gt; ()) -&gt; ()"
+                  moduleName = "MVC-N"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michailbondarenko/Documents/mvclessons/MVC-N/MVC-N/Comments/CommentNetworkService/CommentNetworkService.swift"
+                  timestampString = "571435626.985703"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
